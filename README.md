@@ -25,4 +25,4 @@ I'm on a relentless quest to safeguard the digital world, one exploit at a time.
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/abdullah-emara) | [Twitter](https://twitter.com/0xMrMasry)
 
-🌐 **Website:** [Blog]([https://www.yourwebsite.com](https://0xmrmasry.gitbook.io)
+🌐 **Website:** [Blog](https://0xmrmasry.gitbook.io)
