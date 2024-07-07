@@ -39,7 +39,6 @@ src="https://img.shields.io/twitter/follow/0xMrMasry?logo=twitter&style=for-the-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/0xmrmasry"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<a href="https://www.buymeacoffee.com/0xmrmasry"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 </ul>
