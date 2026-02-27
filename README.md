@@ -55,7 +55,7 @@ I operate across the full stack — from database design and backend architectur
 
 ### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,,bun,laravel,express,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,laravel,express,flask" />
 </p>
 
 - RESTful API design  
